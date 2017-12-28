@@ -1,0 +1,15 @@
+- deletar gps funciona mas retorna erro de vari´vel, aí não volta para consulta.
+- é bobeira mas os comboboxs não querem seguir o modelo do proprio template
+- o controle de acesso no insert do usuário está marretado, lá deve ser revisto quando for implementado o controle de acesso
+- dentro de projeto cadastra melhorar a verificação do vetor para não haver duplicidade, dá para dar um calote no cadastro...
+- os cabeçalhos das tabelas d cnsulta estão como botões, tem que tirar sa merda
+- deletar gps bugado
+
+- script de modificar objeto não aceita null em objetos, como proceder?
+
+
+resolvido:
+- o serviço web vulforia não está funcionando
+- o envio de marcadores está bugando, sem razão, a sessão de cadastro efetuado
+- Cadastro de gps bugadaçoooo
+

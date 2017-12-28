@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<cross-domain-policy>
+   <allow-access-from domain="http://ec2-52-67-24-163.sa-east-1.compute.amazonaws.com/A3RA/"/>
+</cross-domain-policy>

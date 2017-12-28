@@ -1,0 +1,5 @@
+curl -X POST -H 'Content-Type: application/json' -d '{"name": "Fulano", "email": "fulano@foo.bar"}' http://localhost:8888/person/
+
+﻿﻿{"idGEOPOS":"2","0":"2","latitude":"-20.18729","1":"-20.18729","longitude":"-40.25389","2":"-40.25389","altura":"0.00000","3":"0.00000","nome":"cafofo","4":"cafofo","texto":"","5":"","USUARIOS_idUSUARIOS":"1","6":"1"}
+
+curl -X POST -H 'Content-Type: application/json' -d '{"idGEOPOS":"","0":"2","latitude":"-20.18729","1":"-20.18729","longitude":"-40.25389","2":"-40.25389","altura":"0.00000","3":"0.00000","nome":"cafofo","4":"curl teste","texto":"","5":"","USUARIOS_idUSUARIOS":"1","6":"1"}' http://localhost:8888/person/
